@@ -1,7 +1,7 @@
 # ChatGPT-clone-MERN
 
 # Update
-  - ***Resonses are generated with Generative AI***
+  - ***Responses are generated with Generative AI***
 
 ChatGPT (GPT-3) Clone with additional features: 
 - AI Chatbot
